@@ -1,0 +1,21 @@
+user_id,date,metric,value,type,notes
+u001,2024-01-15,steps,8500,walking,Morning jog
+u001,2024-01-15,heart_rate,72,resting,After breakfast
+u001,2024-01-15,sleep,7.5,,Good night sleep
+u001,2024-01-15,water,2100,,Daily intake
+u001,2024-01-16,steps,12000,running,Gym workout
+u001,2024-01-16,heart_rate,85,exercise,During workout
+u001,2024-01-16,sleep,6.8,,Slightly tired
+u001,2024-01-16,water,2400,,Extra hydration
+u001,2024-01-17,steps,6200,walking,Light activity
+u001,2024-01-17,heart_rate,68,resting,Morning reading
+u001,2024-01-17,sleep,8.2,,Great sleep
+u001,2024-01-17,water,1800,,Below target
+u002,2024-01-15,steps,9500,walking,Daily routine
+u002,2024-01-15,heart_rate,78,resting,Normal
+u002,2024-01-15,sleep,7.0,,Average night
+u002,2024-01-15,water,2000,,Standard intake
+u002,2024-01-16,steps,15000,hiking,Weekend hike
+u002,2024-01-16,heart_rate,95,exercise,Peak activity
+u002,2024-01-16,sleep,6.5,,Post-exercise fatigue
+u002,2024-01-16,water,2800,,High activity day

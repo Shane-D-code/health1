@@ -1,0 +1,37 @@
+user_id,date,metric,value,type,notes
+u003,2024-01-20,steps,7200,walking,Regular day
+u003,2024-01-20,heart_rate,75,resting,Morning check
+u003,2024-01-20,sleep,8.0,,Great sleep
+u003,2024-01-20,water,2300,,Good hydration
+u003,2024-01-21,steps,14500,running,Long run day
+u003,2024-01-21,heart_rate,92,exercise,Peak workout
+u003,2024-01-21,sleep,6.2,,Post-workout tired
+u003,2024-01-21,water,3100,,Extra hydration
+u003,2024-01-22,steps,5800,walking,Rest day
+u003,2024-01-22,heart_rate,70,resting,Recovery
+u003,2024-01-22,sleep,9.1,,Recovery sleep
+u003,2024-01-22,water,2000,,Normal intake
+u004,2024-01-20,steps,11200,cycling,Bike commute
+u004,2024-01-20,heart_rate,82,exercise,Moderate effort
+u004,2024-01-20,sleep,7.3,,Average night
+u004,2024-01-20,water,2500,,Target met
+u004,2024-01-21,steps,3200,walking,Sedentary day
+u004,2024-01-21,heart_rate,105,resting,Elevated - stress
+u004,2024-01-21,sleep,4.5,,Poor sleep
+u004,2024-01-21,water,1200,,Dehydrated
+u004,2024-01-22,steps,9800,walking,Back to normal
+u004,2024-01-22,heart_rate,78,resting,Improved
+u004,2024-01-22,sleep,7.8,,Better sleep
+u004,2024-01-22,water,2400,,Rehydrated
+u005,2024-01-20,steps,16800,hiking,Mountain hike
+u005,2024-01-20,heart_rate,88,exercise,Sustained effort
+u005,2024-01-20,sleep,6.9,,Tired from hike
+u005,2024-01-20,water,3500,,High activity
+u005,2024-01-21,steps,4100,walking,Recovery day
+u005,2024-01-21,heart_rate,65,resting,Low resting HR
+u005,2024-01-21,sleep,8.7,,Recovery sleep
+u005,2024-01-21,water,1900,,Light day
+u005,2024-01-22,steps,12400,running,Back to training
+u005,2024-01-22,heart_rate,89,exercise,Training pace
+u005,2024-01-22,sleep,7.1,,Normal sleep
+u005,2024-01-22,water,2700,,Training hydration

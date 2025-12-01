@@ -1,0 +1,25 @@
+user_id,date,metric,value,type,notes
+u001,2024-01-15,steps,6000,walking,Starting slow
+u001,2024-01-15,heart_rate,70,resting,Initial reading
+u001,2024-01-15,sleep,6.0,,Getting started
+u001,2024-01-15,water,1500,,Low intake
+u001,2024-01-16,steps,8500,walking,Improving
+u001,2024-01-16,heart_rate,72,resting,Slight increase
+u001,2024-01-16,sleep,7.2,,Good progress
+u001,2024-01-16,water,2200,,Increasing
+u001,2024-01-17,steps,12000,running,Great improvement
+u001,2024-01-17,heart_rate,75,resting,Consistent increase
+u001,2024-01-17,sleep,8.5,,Perfect sleep
+u001,2024-01-17,water,2800,,Well hydrated
+u002,2024-01-15,steps,5500,walking,Baseline
+u002,2024-01-15,heart_rate,68,resting,Starting point
+u002,2024-01-15,sleep,5.8,,Initial
+u002,2024-01-15,water,1400,,Low start
+u002,2024-01-16,steps,9200,walking,Good progress
+u002,2024-01-16,heart_rate,71,resting,Improving
+u002,2024-01-16,sleep,7.5,,Much better
+u002,2024-01-16,water,2300,,Good hydration
+u002,2024-01-17,steps,13500,hiking,Excellent day
+u002,2024-01-17,heart_rate,74,resting,Steady increase
+u002,2024-01-17,sleep,8.8,,Outstanding sleep
+u002,2024-01-17,water,3000,,Perfect hydration
